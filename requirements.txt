@@ -1,0 +1,3 @@
+# headerspy has no runtime dependencies — stdlib only.
+# Install dev dependencies for testing/linting:
+#   pip install -r requirements-dev.txt
